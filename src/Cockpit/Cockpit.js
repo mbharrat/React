@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import classes from './Cockpit.css';
 
 const cockpit = (props) => {
